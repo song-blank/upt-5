@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ico/0.png</file>
+        <file>ico/1.png</file>
+        <file>ico/2.png</file>
+        <file>ico/3.png</file>
+        <file>ico/4.png</file>
+        <file>ico/5.png</file>
+        <file>ico/6.png</file>
+        <file>ico/7.png</file>
+        <file>ico/8.png</file>
+        <file>ico/9.png</file>
+        <file>ico/auto.ico</file>
+        <file>ico/check.png</file>
+        <file>ico/clean.png</file>
+        <file>ico/continue.png</file>
+        <file>ico/delete.png</file>
+        <file>ico/down.png</file>
+        <file>ico/export.png</file>
+        <file>ico/hand.png</file>
+        <file>ico/lift.png</file>
+        <file>ico/logo.jpg</file>
+        <file>ico/power.png</file>
+        <file>ico/print.ico</file>
+        <file>ico/return.png</file>
+        <file>ico/right.png</file>
+        <file>ico/select.png</file>
+        <file>ico/set.png</file>
+        <file>ico/sousuo.png</file>
+        <file>ico/Thumbs.db</file>
+        <file>ico/ture.png</file>
+        <file>ico/up.png</file>
+    </qresource>
+</RCC>

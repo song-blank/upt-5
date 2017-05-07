@@ -1,0 +1,136 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AR	Makefile	/^AR            = arm-arago-linux-gnueabi-ar cqs$/;"	m
+AUTO_CHECK_FAULT_FORM_H	auto_check_fault_form.h	2;"	d
+AUTO_CHECK_FORM_H	auto_check_form.h	2;"	d
+AUTO_TEST_FORM_H	auto_test_form.h	2;"	d
+Auto_Check_Fault_Form	auto_check_fault_form.cpp	/^Auto_Check_Fault_Form::Auto_Check_Fault_Form(QWidget *parent) :$/;"	f	class:Auto_Check_Fault_Form
+Auto_Check_Fault_Form	auto_check_fault_form.h	/^class Auto_Check_Fault_Form : public QWidget$/;"	c
+Auto_Check_Form	auto_check_form.cpp	/^Auto_Check_Form::Auto_Check_Form(QWidget *parent) :$/;"	f	class:Auto_Check_Form
+Auto_Check_Form	auto_check_form.h	/^class Auto_Check_Form : public QWidget$/;"	c
+CC	Makefile	/^CC            = arm-arago-linux-gnueabi-gcc -lts$/;"	m
+CFLAGS	Makefile	/^CFLAGS        = -pipe -O2 -Wall -W -D_REENTRANT $(DEFINES)$/;"	m
+CHK_DIR_EXISTS	Makefile	/^CHK_DIR_EXISTS= test -d$/;"	m
+COMPRESS	Makefile	/^COMPRESS      = gzip -9f$/;"	m
+CONFIGURE_FORM_H	configure_form.h	2;"	d
+COPY	Makefile	/^COPY          = cp -f$/;"	m
+COPY_DIR	Makefile	/^COPY_DIR      = $(COPY) -r$/;"	m
+COPY_FILE	Makefile	/^COPY_FILE     = $(COPY)$/;"	m
+CXX	Makefile	/^CXX           = arm-arago-linux-gnueabi-g++ -lts$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS      = -pipe -O2 -Wall -W -D_REENTRANT $(DEFINES)$/;"	m
+Configure_Form	configure_form.cpp	/^Configure_Form::Configure_Form(QWidget *parent) :$/;"	f	class:Configure_Form
+Configure_Form	configure_form.h	/^class Configure_Form : public QWidget$/;"	c
+DEFINES	Makefile	/^DEFINES       = -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED$/;"	m
+DEL_DIR	Makefile	/^DEL_DIR       = rmdir$/;"	m
+DEL_FILE	Makefile	/^DEL_FILE      = rm -f$/;"	m
+DESTDIR	Makefile	/^DESTDIR       = $/;"	m
+DIST	Makefile	/^DIST          = \/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/mkspecs\/common\/unix.conf \\$/;"	m
+FORM_H	form.h	2;"	d
+Form	form.cpp	/^Form::Form(QWidget *parent) :$/;"	f	class:Form
+Form	form.h	/^class Form : public QWidget$/;"	c
+INCPATH	Makefile	/^INCPATH       = -I\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/mkspecs\/qws\/linux-arm-gnueabi-g++ -I. -I\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/include\/QtCore -I\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/include\/QtNetwork -I\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/include\/QtGui -I\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/include -I. -I. -I. -I\/usr\/local\/tslib\/include$/;"	m
+INSTALL_DIR	Makefile	/^INSTALL_DIR   = $(COPY_DIR)$/;"	m
+INSTALL_FILE	Makefile	/^INSTALL_FILE  = install -m 644 -p$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = install -m 755 -p$/;"	m
+LFLAGS	Makefile	/^LFLAGS        = -Wl,-O1 -Wl,-rpath,\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/lib$/;"	m
+LIBS	Makefile	/^LIBS          = $(SUBLIBS)  -L\/usr\/local\/tslib\/lib -L\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/lib -lQtGui -L\/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/lib -L\/usr\/local\/tslib\/lib -lQtNetwork -lQtCore -lpthread $/;"	m
+LINK	Makefile	/^LINK          = arm-arago-linux-gnueabi-g++ -lts$/;"	m
+MKDIR	Makefile	/^MKDIR         = mkdir -p$/;"	m
+MOVE	Makefile	/^MOVE          = mv -f$/;"	m
+OBJECTS	Makefile	/^OBJECTS       = auto_check_fault_form.o \\$/;"	m
+OBJECTS_DIR	Makefile	/^OBJECTS_DIR   = .\/$/;"	m
+OLD_BAR_CODE_FORM_H	old_bar_code_form.h	2;"	d
+QMAKE	Makefile	/^QMAKE         = \/usr\/local\/Trolltech\/QtEmbedded-4.8.4-arm\/bin\/qmake$/;"	m
+QMAKE_TARGET	Makefile	/^QMAKE_TARGET  = UPT_3_project$/;"	m
+QUALITY_CONTROL_FORM_H	quality_control_form.h	2;"	d
+Quality_Control_Form	quality_control_form.cpp	/^Quality_Control_Form::Quality_Control_Form(QWidget *parent) :$/;"	f	class:Quality_Control_Form
+Quality_Control_Form	quality_control_form.h	/^class Quality_Control_Form : public QWidget$/;"	c
+RANLIB	Makefile	/^RANLIB        = $/;"	m
+SED	Makefile	/^SED           = sed$/;"	m
+SOURCES	Makefile	/^SOURCES       = auto_check_fault_form.cpp \\$/;"	m
+STRIP	Makefile	/^STRIP         = arm-arago-linux-gnueabi-strip$/;"	m
+SYMLINK	Makefile	/^SYMLINK       = ln -f -s$/;"	m
+TAR	Makefile	/^TAR           = tar -cf$/;"	m
+TARGET	Makefile	/^TARGET        = UPT_3_project$/;"	m
+TEST_INFO_INPUT_FORM_H	test_info_input_form.h	2;"	d
+TEST_RESULT_HISTORY_FORM_H	test_result_history_form.h	2;"	d
+UPT_MAINWINDOW_H	upt_mainwindow.h	2;"	d
+UPT_MainWindow	upt_mainwindow.cpp	/^UPT_MainWindow::UPT_MainWindow(QWidget *parent) :$/;"	f	class:UPT_MainWindow
+UPT_MainWindow	upt_mainwindow.h	/^class UPT_MainWindow : public QMainWindow$/;"	c
+UPT_QTHREAD_H	upt_qthread.h	2;"	d
+UPT_QThread	upt_qthread.cpp	/^UPT_QThread::UPT_QThread()$/;"	f	class:UPT_QThread
+UPT_QThread	upt_qthread.cpp	/^UPT_QThread::UPT_QThread(int cmd, void *in_param, void *out_param)$/;"	f	class:UPT_QThread
+UPT_QThread	upt_qthread.cpp	/^UPT_QThread::UPT_QThread(int cmd, void *param)$/;"	f	class:UPT_QThread
+UPT_QThread	upt_qthread.h	/^class UPT_QThread : public QThread$/;"	c
+UPT_TEST_RESULT_FORM_H	upt_test_result_form.h	2;"	d
+UPT_Test_Result_Form	upt_test_result_form.cpp	/^UPT_Test_Result_Form::UPT_Test_Result_Form(QWidget *parent) :$/;"	f	class:UPT_Test_Result_Form
+UPT_Test_Result_Form	upt_test_result_form.h	/^class UPT_Test_Result_Form : public QWidget$/;"	c
+Ui	auto_check_fault_form.h	/^namespace Ui {$/;"	n
+Ui	auto_check_form.h	/^namespace Ui {$/;"	n
+Ui	auto_test_form.h	/^namespace Ui {$/;"	n
+Ui	configure_form.h	/^namespace Ui {$/;"	n
+Ui	form.h	/^namespace Ui {$/;"	n
+Ui	old_bar_code_form.h	/^namespace Ui {$/;"	n
+Ui	quality_control_form.h	/^namespace Ui {$/;"	n
+Ui	test_info_input_form.h	/^namespace Ui {$/;"	n
+Ui	test_result_history_form.h	/^namespace Ui {$/;"	n
+Ui	upt_mainwindow.h	/^namespace Ui {$/;"	n
+Ui	upt_test_result_form.h	/^namespace Ui {$/;"	n
+_cmd	upt_qthread.h	/^    int _cmd;$/;"	m	class:UPT_QThread
+_in_param	upt_qthread.h	/^    void *_in_param, *_out_param;$/;"	m	class:UPT_QThread
+_out_param	upt_qthread.h	/^    void *_in_param, *_out_param;$/;"	m	class:UPT_QThread
+_param	upt_qthread.h	/^    void *_param;$/;"	m	class:UPT_QThread
+auto_Test_Form	auto_test_form.cpp	/^auto_Test_Form::auto_Test_Form(QWidget *parent) :$/;"	f	class:auto_Test_Form
+auto_Test_Form	auto_test_form.h	/^class auto_Test_Form : public QWidget$/;"	c
+main	main.cpp	/^int main(int argc, char *argv[])$/;"	f
+old_Bar_Code_Form	old_bar_code_form.cpp	/^old_Bar_Code_Form::old_Bar_Code_Form(QWidget *parent) :$/;"	f	class:old_Bar_Code_Form
+old_Bar_Code_Form	old_bar_code_form.h	/^class old_Bar_Code_Form : public QWidget$/;"	c
+on_auto_test_PBn_clicked	form.cpp	/^void Form::on_auto_test_PBn_clicked()$/;"	f	class:Form
+on_backspace_PBtn_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_backspace_PBtn_clicked()$/;"	f	class:test_Info_Input_Form
+on_check_history_PBn_clicked	form.cpp	/^void Form::on_check_history_PBn_clicked()$/;"	f	class:Form
+on_configure_PBn_clicked	form.cpp	/^void Form::on_configure_PBn_clicked()$/;"	f	class:Form
+on_mannal_test_PBn_clicked	form.cpp	/^void Form::on_mannal_test_PBn_clicked()$/;"	f	class:Form
+on_powerButton_clicked	form.cpp	/^void Form::on_powerButton_clicked()$/;"	f	class:Form
+on_pushButton_10_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_10_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_2_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_2_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_3_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_3_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_4_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_4_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_5_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_5_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_6_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_6_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_7_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_7_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_8_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_8_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_9_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_9_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_clicked	test_info_input_form.cpp	/^void test_Info_Input_Form::on_pushButton_clicked()$/;"	f	class:test_Info_Input_Form
+on_pushButton_clicked	upt_mainwindow.cpp	/^void UPT_MainWindow::on_pushButton_clicked()$/;"	f	class:UPT_MainWindow
+run	upt_qthread.cpp	/^void UPT_QThread::run()$/;"	f	class:UPT_QThread
+status	upt_qthread.h	/^    int status;$/;"	m	class:UPT_QThread
+test_Info_Input_Form	test_info_input_form.cpp	/^test_Info_Input_Form::test_Info_Input_Form(QWidget *parent) :$/;"	f	class:test_Info_Input_Form
+test_Info_Input_Form	test_info_input_form.h	/^class test_Info_Input_Form : public QWidget$/;"	c
+test_Result_History_Form	test_result_history_form.cpp	/^test_Result_History_Form::test_Result_History_Form(QWidget *parent) :$/;"	f	class:test_Result_History_Form
+test_Result_History_Form	test_result_history_form.h	/^class test_Result_History_Form : public QWidget$/;"	c
+ui	auto_check_fault_form.h	/^    Ui::Auto_Check_Fault_Form *ui;$/;"	m	class:Auto_Check_Fault_Form
+ui	auto_check_form.h	/^    Ui::Auto_Check_Form *ui;$/;"	m	class:Auto_Check_Form
+ui	auto_test_form.h	/^    Ui::auto_Test_Form *ui;$/;"	m	class:auto_Test_Form
+ui	configure_form.h	/^    Ui::Configure_Form *ui;$/;"	m	class:Configure_Form
+ui	form.h	/^    Ui::Form *ui;$/;"	m	class:Form
+ui	old_bar_code_form.h	/^    Ui::old_Bar_Code_Form *ui;$/;"	m	class:old_Bar_Code_Form
+ui	quality_control_form.h	/^    Ui::Quality_Control_Form *ui;$/;"	m	class:Quality_Control_Form
+ui	test_info_input_form.h	/^    Ui::test_Info_Input_Form *ui;$/;"	m	class:test_Info_Input_Form
+ui	test_result_history_form.h	/^    Ui::test_Result_History_Form *ui;$/;"	m	class:test_Result_History_Form
+ui	upt_mainwindow.h	/^    Ui::UPT_MainWindow *ui;$/;"	m	class:UPT_MainWindow
+ui	upt_test_result_form.h	/^    Ui::UPT_Test_Result_Form *ui;$/;"	m	class:UPT_Test_Result_Form
+~Auto_Check_Fault_Form	auto_check_fault_form.cpp	/^Auto_Check_Fault_Form::~Auto_Check_Fault_Form()$/;"	f	class:Auto_Check_Fault_Form
+~Auto_Check_Form	auto_check_form.cpp	/^Auto_Check_Form::~Auto_Check_Form()$/;"	f	class:Auto_Check_Form
+~Configure_Form	configure_form.cpp	/^Configure_Form::~Configure_Form()$/;"	f	class:Configure_Form
+~Form	form.cpp	/^Form::~Form()$/;"	f	class:Form
+~Quality_Control_Form	quality_control_form.cpp	/^Quality_Control_Form::~Quality_Control_Form()$/;"	f	class:Quality_Control_Form
+~UPT_MainWindow	upt_mainwindow.cpp	/^UPT_MainWindow::~UPT_MainWindow()$/;"	f	class:UPT_MainWindow
+~UPT_Test_Result_Form	upt_test_result_form.cpp	/^UPT_Test_Result_Form::~UPT_Test_Result_Form()$/;"	f	class:UPT_Test_Result_Form
+~auto_Test_Form	auto_test_form.cpp	/^auto_Test_Form::~auto_Test_Form()$/;"	f	class:auto_Test_Form
+~old_Bar_Code_Form	old_bar_code_form.cpp	/^old_Bar_Code_Form::~old_Bar_Code_Form()$/;"	f	class:old_Bar_Code_Form
+~test_Info_Input_Form	test_info_input_form.cpp	/^test_Info_Input_Form::~test_Info_Input_Form()$/;"	f	class:test_Info_Input_Form
+~test_Result_History_Form	test_result_history_form.cpp	/^test_Result_History_Form::~test_Result_History_Form()$/;"	f	class:test_Result_History_Form

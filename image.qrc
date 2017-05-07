@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/auto.png</file>
+        <file>image/check.png</file>
+        <file>image/hand.png</file>
+        <file>image/mianbackground.jpg</file>
+        <file>image/power.jpg</file>
+        <file>image/set.png</file>
+        <file>image/while.png</file>
+        <file>image/auto_process.jpg</file>
+        <file>image/check_process.jpg</file>
+        <file>image/hand_process.jpg</file>
+        <file>image/set_process.jpg</file>
+    </qresource>
+</RCC>
